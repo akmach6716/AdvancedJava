@@ -1,0 +1,53 @@
+Interview Questions from my last 2Interviews Experience Feb and March 2025
+
+1) Write a program to test a RESTful API. The program should be able to handle authentication, make GET and POST requests, and validate the responses.
+2) How would you design a test case in Java for a system that requires multiple steps, where each step's output is the next step's input?
+3) Demonstrate how to mock external dependencies (e.g., databases) in a test case . Provide an example
+4) Given an array arr[] and positive integer k, the task is to count the total number of pairs in the array whose sum is divisible by k. Input: arr[] = {5, 9, 36, 74, 52, 31, 42}, k = 3 Output: 7 Explanation: There are seven pairs whose sum is divisible by 3, i.e, (9, 36), (9,42), (74, 52), (36, 42), (74, 31), (31, 5) and (5, 52).
+5) Given an integer array nums, move all zero elements to the end of the array while maintaining the relative order of the non-zero elements. Modify the array in place with O(1) extra space. Input: nums = [0, 1, 0, 3, 12] Output: [1, 3, 12, 0, 0]
+6) How do you handle a blocker in testing, and what strategies can help overcome it?
+7) What strategy do you follow when starting a new project to ensure effective test coverage?
+8) . What is the shift-left approach in testing, and can you provide a real-time scenario where it was beneficial?
+9) Have you encountered any bugs while implementing the shift-left approach, and how did you handle them?
+10) Given an array of integers, return all elements that appear at least twice, in the order they first became duplicates.
+
+**************************************************************************************************************************************
+
+SDET Coding Problems before your next interview
+
+1) Two Sum problem
+2) Running sum of an array
+3) Remove duplicates from a sorted array
+4) Remove Element from an array
+5) Search Insert Position
+6) Two String Anagram
+7) Remove duplicates from a String: Return without duplicates
+8) Print the words of a string in reverse
+9) Moving all zeroes to end
+10) Reverse every subarray formed by consecutive K elements
+
+Note: Following the best practices and best time complexity are the real challenges during interviews.
+
+Note: If you know different programming approaches can be a added advantage!
+
+Note: Two pointer, sorting and searching algorithms are crucial
+**************************************************************************************************************************************
+Selenium WebDriver 2025 Most Asked Interview Questions for SDET interviews
+
+1) What does getDomProperty() and getDomAttribute() methods do? What is the difference?
+2) How to fetch all the broken links with its name and url?
+3) How can you bypass the issue of Element Not Found without using Try catch or throws or custom exceptions?
+4) What happens when there are multiple browser windows open, How do you switch between them?
+5) Is it possible to use same locators within Selenium WebDriver and PlayWright?
+
+If not then what will be your strategy in PlayWright?
+
+6) When should you use sendKeys() and sendKeys() from Actions Class?
+7) How does WebDriverWait for urlToBe() and TitleIs() differs?
+8) How do you handle SSL certificate errors using Selenium WebDriver?
+9)  How do you handle dynamic dropdowns and select options using Selenium WebDriver?
+10) How do you manage AutoFill Fields and validate the options listed?
+11) When should you find a URL and validate its existence on a web page? What are hidden links?
+12) Explain how you can switch back from a frame.
+13) What are different chromeOptions you have used and why?
+**************************************************************************************************************************************
